@@ -1,0 +1,11 @@
+.gambar {
+    width: 100px;
+}
+
+.table>tbody>tr>*{
+    vertical-align: middle;
+}
+.gambardetail{
+    width: 190px;
+    height: 270px;
+}
